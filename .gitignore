@@ -22,8 +22,3 @@ Thumbs.db
 # Logs
 *.log
 
-# Data files (optional: ignore if they’re too big or auto-generated)
-#*.csv
-#*.xlsx
-#*.pkl
-#*.h5
