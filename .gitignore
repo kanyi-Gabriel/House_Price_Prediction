@@ -23,7 +23,7 @@ Thumbs.db
 *.log
 
 # Data files (optional: ignore if they’re too big or auto-generated)
-*.csv
-*.xlsx
-*.pkl
-*.h5
+#*.csv
+#*.xlsx
+#*.pkl
+#*.h5
