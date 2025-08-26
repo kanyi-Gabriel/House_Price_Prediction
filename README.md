@@ -13,5 +13,6 @@ The goal is to identify the most significant factors that influence house prices
 In addition, a presentation file is included at:
 Files/house_price_prediction.pptx
 This PowerPoint file contains a full analysis and insights related to the project
----
+
+
   
