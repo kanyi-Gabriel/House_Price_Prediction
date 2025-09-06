@@ -20,11 +20,14 @@ This PowerPoint file contains a full analysis and insights related to the projec
 📂 Houe_price_Prediction
 
  ┣ 📂 Files
+ 
  ┃   ┗ House_price_prediction.ipynb
+ 
  ┃   ┗ house_price_prediction_insight.pptx
 
  ┣ 📂 project_files
    ┃   ┗ test.csv
+   
    ┃   ┗ train.csv
 
  ┣ 📜 .gitignore
