@@ -61,8 +61,3 @@ This PowerPoint file contains a full analysis and insights related to the projec
     ```bash
     conda install -c anaconda ipykernel
     python -m ipykernel install --user--name = environment_name
-
-
-
-
-  
