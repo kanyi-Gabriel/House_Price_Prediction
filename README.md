@@ -23,6 +23,9 @@ This PowerPoint file contains a full analysis and insights related to the projec
    │   ├── House_price_prediction.ipynb
    │   ├── house_price_prediction_insight.pptx
    │
+   │── images/
+   │   ├── feature_imp
+   │   
    │── project_files/
    │   ├── train.csv
    │   ├── test.csv
@@ -31,6 +34,7 @@ This PowerPoint file contains a full analysis and insights related to the projec
    │── README.md
    │── LICENSE
    │── .gitignore
+   │── .attributes
 
  ```
 ---
@@ -67,6 +71,5 @@ Recently built or remodeled houses command higher prices.
 
 Engineered features like TotalSF and House_Age improved predictive power.
 
-Gradient Boosting captured non-linear relationships best.
 
 ![Feature Importance](images/feature_imp.jpg)
