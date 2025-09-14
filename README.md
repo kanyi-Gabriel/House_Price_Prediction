@@ -17,29 +17,22 @@ This PowerPoint file contains a full analysis and insights related to the projec
 ---
 
 ## 📂 Repository Structure
-📂 Houe_price_Prediction
+```bash
+   House_Price_Prediction/
+   │── Files/
+   │   ├── House_price_prediction.ipynb
+   │   ├── house_price_prediction_insight.pptx
+   │
+   │── project_files/
+   │   ├── train.csv
+   │   ├── test.csv
+   │
+   │── requirements.txt
+   │── README.md
+   │── LICENSE
+   │── .gitignore
 
- ┣ 📂 Files
- 
- ┃   ┗ House_price_prediction.ipynb
- 
- ┃   ┗ house_price_prediction_insight.pptx
-
- ┣ 📂 project_files
-   ┃   ┗ test.csv
-   
-   ┃   ┗ train.csv
-
- ┣ 📜 .gitignore
-
- ┣ 📜 .gitattributes
-
- ┣ 📜 LICENSE
- 
- ┣ 📜 README.md   ← project overview, results, how to run
- 
- ┣ 📜 requirements.txt  ← Python libraries
- 
+ ```
 ---
 
 
@@ -61,3 +54,19 @@ This PowerPoint file contains a full analysis and insights related to the projec
     ```bash
     conda install -c anaconda ipykernel
     python -m ipykernel install --user--name = environment_name
+
+
+---
+## Key Insights
+
+Overall Quality is the single strongest predictor of house price.
+
+Size-related features (living area, basement, garage) strongly influence prices.
+
+Recently built or remodeled houses command higher prices.
+
+Engineered features like TotalSF and House_Age improved predictive power.
+
+Gradient Boosting captured non-linear relationships best.
+
+![Feature Importance](images/feature_imp.jpg)
