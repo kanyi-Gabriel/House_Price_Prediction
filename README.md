@@ -16,7 +16,7 @@ This PowerPoint file contains a full analysis and insights related to the projec
 
 ---
 
-## 📂 Repository Structure
+##  Repository Structure
 ```bash
    House_Price_Prediction/
    │── Files/
