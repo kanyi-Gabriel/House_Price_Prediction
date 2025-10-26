@@ -34,7 +34,7 @@ This PowerPoint file contains a full analysis and insights related to the projec
    │── README.md
    │── LICENSE
    │── .gitignore
-   │── .gitattributes
+   └──  .gitattributes
 
  ```
 ---
